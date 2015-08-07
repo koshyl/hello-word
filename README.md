@@ -1,2 +1,2 @@
 # hello-word
-My first repository on GitHub.
+This is the Hello World example from the git tutorial.
